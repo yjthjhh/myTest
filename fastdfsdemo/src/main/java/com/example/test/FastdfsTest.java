@@ -9,7 +9,7 @@ import java.util.Properties;
 /**
  * FastDFS API的编写
  */
-public class test {
+public class FastdfsTest {
     public static void main(String[] args) {
         try {
             //设置配置属性
